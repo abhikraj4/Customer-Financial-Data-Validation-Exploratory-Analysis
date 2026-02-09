@@ -19,6 +19,7 @@
 
 * Notebook should be run sequentially to reproduce results
 
+* unzip transaction dataset and use the the path according
 
 =>>Requirements:
 
